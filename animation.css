@@ -1,0 +1,25 @@
+/* @keyframes slider{
+    0%{
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('images/aj-robbie-BuQ1RZckYW4-unsplash.jpg') center/cover no-repeat fixed;
+    }
+    30%{
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('images/geran-de-klerk-bKhETeDV1WM-unsplash.jpg') center/cover no-repeat fixed ;
+    }
+    70%{
+        background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('images/barth-bailey-5_bAKRGvkq8-unsplash.jpg') center/cover no-repeat fixed ;
+    }
+} */
+/* @keyframes slide{
+    0%{
+        transform: translateX(50%);
+    }
+    25%{
+        transform: translateX(50%);
+    }
+    50%{
+        transform: translateX(50%);
+    }
+    100%{
+        transform: translateX(50%);
+    }
+} */
